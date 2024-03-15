@@ -19,6 +19,7 @@ const Footer = ()=>{
     }, [])
 
     return(
+        // Footer Section
         <div className="footer">
             <div className="sectionContainer container grid">
 
